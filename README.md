@@ -7,7 +7,7 @@
 
 - 👯 My previous project was [public-poll](https://github.com/margaridarita/public-poll)
 
-<img [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clapbat)](https://github.com/clapbat/github-readme-stats)>
+[![Clarissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=clapbat&count_private=true&theme=gruvbox)](https://github.com/clapbat/github-readme-stats)
 
 - 💬 Ask me about **Ruby on Rails, HTML, CSS..**
 
