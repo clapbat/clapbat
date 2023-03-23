@@ -1,19 +1,13 @@
-<h1 align="center">Hi 👋, I'm Clarissa!</h1>
+<h1 align="center">Hi 👩🏾‍💻, I'm Clarissa!</h1>
 <h3 align="center">A passionate Full-stack Developer from Portugal</h3>
 
-- 🔭 I’m currently working on [blackout-estudio](https://github.com/clapbat/blackout-estudio)
+🔭 I’m currently working on [blackout-estudio](https://github.com/clapbat/blackout-estudio)
 
-- 🌱 I’m currently learning **React**
+🌱 I’m currently learning **React**
 
-- 👯 My previous project was [public-poll](https://github.com/margaridarita/public-poll)
+👯 My previous project was [public-poll](https://github.com/margaridarita/public-poll)
 
 [![Clarissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=clapbat&count_private=true&theme=gruvbox)](https://github.com/clapbat/github-readme-stats)
-
-- 💬 Ask me about **Ruby on Rails, HTML, CSS..**
-
-- 📫 How to reach me **clarissapbatista@gmail.com**
-
-- ⚡ Fun fact **I love cats 😽**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
