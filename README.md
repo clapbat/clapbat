@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Clarissa 👩🏾‍💻</h1>
 <h3 align="center">A passionate Full-stack Developer from Portugal</h3>
 
-🔭 I’m currently working on [blackout-estudio](https://github.com/clapbat/blackout-estudio) project.
+🔭 I’m currently working on [riverside-business-center](https://github.com/clapbat/riverside-business-center) project.
 
 🌱 I’m currently learning **React**
 
